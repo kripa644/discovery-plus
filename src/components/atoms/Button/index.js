@@ -8,6 +8,7 @@ export const ButtonType = {
     SUBMIT: 'submit',
 };
 
+// button themes
 export const ButtonTheme = {
     PRIMARY: 'primary',
     SECONDARY: 'secondary',
